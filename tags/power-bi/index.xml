@@ -6,15 +6,25 @@
     <description>Recent content in Power Bi on Bhavesh Jadav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 15:01:15 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Better App Navigation in Power BI</title>
+      <link>/powerbi/appnavigation/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/powerbi/appnavigation/</guid>
+      <description>Power BI Apps are great way to share the content such as dashboards and reports to large Audience. But the way to categorize your content in App is very limited. Once you setup your App without specifying any landing page, you are greeted with following screen.
+  Default App navigation in Power BI  Power BI Apps are categorized into 3 sections, Dashboards, Reports and Datasets. Dashboards and Reports are primary focus for most of the end users.</description>
+    </item>
+    
+    <item>
       <title>Advance Card - A Power BI Custom Visual</title>
       <link>/powerbi/advancecard/</link>
-      <pubDate>Sun, 03 Jun 2018 15:01:15 +0530</pubDate>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/powerbi/advancecard/</guid>
       <description>Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.

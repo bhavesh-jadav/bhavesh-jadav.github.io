@@ -6,7 +6,7 @@
     <description>Recent content in Custom Visual on Bhavesh Jadav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 15:01:15 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/custom-visual/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Advance Card - A Power BI Custom Visual</title>
       <link>/powerbi/advancecard/</link>
-      <pubDate>Sun, 03 Jun 2018 15:01:15 +0530</pubDate>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/powerbi/advancecard/</guid>
       <description>Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.

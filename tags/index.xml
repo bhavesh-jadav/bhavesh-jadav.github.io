@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Bhavesh Jadav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 15:01:15 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Custom Visual</title>
       <link>/tags/custom-visual/</link>
-      <pubDate>Sun, 03 Jun 2018 15:01:15 +0530</pubDate>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/custom-visual/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Power Bi</title>
       <link>/tags/power-bi/</link>
-      <pubDate>Sun, 03 Jun 2018 15:01:15 +0530</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Bi Apps</title>
+      <link>/tags/power-bi-apps/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-bi-apps/</guid>
       <description></description>
     </item>
     
