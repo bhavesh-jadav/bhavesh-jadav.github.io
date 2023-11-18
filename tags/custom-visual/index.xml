@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custom Visual on Bhavesh Jadav&#39;s Blog</title>
@@ -7,20 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/custom-visual/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/custom-visual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advance Card - A Power BI Custom Visual</title>
       <link>/powerbi/advancecard/</link>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/powerbi/advancecard/</guid>
-      <description>Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.
-Align content
-You can align content of card to either left, right or center. You can also specify spacing from left or right border or stroke when the content is either left or right aligned.</description>
+      <description>Development of this custom visual has been stopped. Please find an alternative custom visual if this custom visual does not fulfil your requirement.
+Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,36 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Power Bi on Bhavesh Jadav&#39;s Blog</title>
+    <title>Power BI on Bhavesh Jadav&#39;s Blog</title>
     <link>/tags/power-bi/</link>
-    <description>Recent content in Power Bi on Bhavesh Jadav&#39;s Blog</description>
+    <description>Recent content in Power BI on Bhavesh Jadav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Better App Navigation in Power BI</title>
       <link>/powerbi/appnavigation/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/powerbi/appnavigation/</guid>
       <description>Power BI Apps are great way to share the content such as dashboards and reports to large Audience. But the way to categorize your content in App is very limited. Once you setup your App without specifying any landing page, you are greeted with following screen.
-  Default App navigation in Power BI  Power BI Apps are categorized into 3 sections, Dashboards, Reports and Datasets. Dashboards and Reports are primary focus for most of the end users.</description>
+Power BI Apps are categorized into 3 sections, Dashboards, Reports and Datasets. Dashboards and Reports are primary focus for most of the end users. Now if you want to categorize your Dashboards and Reports further down with your own categories, you won&amp;rsquo;t be able to do that because Power BI does not support that yet.</description>
     </item>
-    
     <item>
       <title>Advance Card - A Power BI Custom Visual</title>
       <link>/powerbi/advancecard/</link>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>/powerbi/advancecard/</guid>
-      <description>Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.
-Align content
-You can align content of card to either left, right or center. You can also specify spacing from left or right border or stroke when the content is either left or right aligned.</description>
+      <description>Development of this custom visual has been stopped. Please find an alternative custom visual if this custom visual does not fulfil your requirement.
+Advance Card is a Power BI custom visual with more features than default card visual present in Power BI. It is built to overcome some of the limitation of the default card visual in Power BI. Below you will find some of the features of Advance Card.</description>
     </item>
-    
   </channel>
 </rss>
